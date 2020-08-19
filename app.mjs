@@ -10,7 +10,7 @@ const Data = {
 const App = {
   view: () => [
     m("main", [
-      m("h1", "Retry Calculator"),
+      m("h1", "Exponential Backoff Retry Policy Calculator"),
       m("hr"),
       m(Form),
       m("hr"),
